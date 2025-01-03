@@ -1,18 +1,13 @@
 # Comprehensive Calculators App
 
-A comprehensive web application featuring a wide range of calculators including:
+## Overview
+A comprehensive web application featuring multiple calculators across various domains.
 
-## Calculator Categories
+## Features
 - Financial Calculators
 - Fitness and Health Calculators
 - Math Calculators
-- Other Utility Calculators
-
-## Features
-- Multiple calculator types
-- Responsive design
-- Search functionality
-- Easy navigation
+- Utility Calculators
 
 ## Installation
 1. Clone the repository
